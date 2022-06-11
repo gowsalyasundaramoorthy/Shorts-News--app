@@ -1,0 +1,16 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.shorts-img {
+    width: 500px;
+    height: auto;
+    max-width: 500px;
+    max-height: 250px;
+}
+
+.shorts-auth{
+    font-weight: 800;
+}
